@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Gauge Matcher</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="enterTheGaugeValueInMm">Enter the Gauge value in mm.</string>
+    <string name="blanck"></string>
+    <string name="checkGauge">Check</string>
+    <string name="gaugeMatcher">Gauge Matcher</string>
+    <string name="GmailAddress">suryajeet945@gmail.com</string>
+    <string name="wireno">No.</string>
+    <string name="mm">mm</string>
+    <string name="inch">Inch.</string>
+    <string name="gaugedata">Wire Guage Data</string>
+    <string name="get_fields_to_enter_no">Get Edit Text fiels</string>
+    <string name="no_of_wires">No Of Wires</string>
+    <string name="wire_no1">1st Wire size in mm</string>
+    <string name="wire_no2">2nd wire size in mm</string>
+    <string name="wire_no3">3rd wire size in mm</string>
+    <string name="wire_no4">4th wire size in mm</string>
+    <string name="wire_no5">5th wire size in mm</string>
+    <string name="wire_no6">6th wire size in mm</string>
+    <string name="getCombinationOfWires">Get Comb. Of Wires</string>
+    <string name="setApproximation">Set Approximation Value</string>
+    <string name="seeApproximatoionVale">Get Matches</string>
+    <string name="totalArea">Total Cross Sec. Area =</string>
+    <string name="resultArea">Resultant Area</string>
+    <string name="combinationOfWires">Combination Of Wires</string>
+    <string-array name="spinner_entries">
+        <item>To Single</item>
+        <item>To Double</item>
+        <item>To Triple</item>
+        <item>To Four</item>
+        <item>To Five</item>
+        <item>To Six</item>
+    </string-array>
+    <string name="header1">1. Convert wire mm size to commercially known size</string>
+    <string name="howtousewiresizer">Give the wire size in mm and you will get the wire size known commercially</string>
+    <string name="header2">2. How to use Wire Matcher</string>
+    <string name="howtousewirematcher">
+        \t1. First give the no of wires which you want to match with other wires\n
+        \t2. Put the wire sizes in text fields\n
+        \t3. Click the button Get COMB. Of Wires\n
+        \t4. Now you will see the best possible choice for your given wires\n
+        \t5. You can also give the Approximate value and Click See Matches\n
+        \t6. Now if you only want to see the combination in particular no of wires Click the Drop down button\n
+        \t7. The Approximate value is used to filter the wire combinations and this values shows that how much error you want in your combination
+        like if your total area of wires is 1 and you gave the Approximate value=0.02 then all the combination having value between (1-0.02) to (1+0.02)
+        will be shown\n
+    </string>
+    <string name="howtousewirematcher1">
+        1. First give the no of wires which you want to match with other wires
+    </string>
+    <string name="howtousewirematcher2">
+        2. Put the wire sizes in text fields
+    </string>
+    <string name="howtousewirematcher3">
+        3. Click the button Get COMB. Of Wires
+    </string>
+    <string name="howtousewirematcher4">
+        4. Now you will see the best possible choice for your given wires
+    </string>
+    <string name="howtousewirematcher5">
+        5. You can also give the Approximate value and Click See Matches
+    </string>
+    <string name="howtousewirematcher6">
+        6. Now if you only want to see the combination in particular no of wires Click the Drop down button
+    </string>
+    <string name="howtousewirematcher7">
+        7. The Approximate value is used to filter the wire combinations and this values shows that how much error you want in your combination
+        like if your total area of wires is 1 and you gave the Approximate value=0.02 then all the combination having value between (1-0.02) to (1+0.02)
+        will be shown
+    </string>
+    <string name="spinner_prompt">Convert Wire</string>
+</resources>

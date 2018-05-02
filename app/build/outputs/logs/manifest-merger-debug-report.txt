@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\482a718a3c3ef791f44231e21e1c6d53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\79f28302890aa04aaa74a18c04f6a9b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\860dc37a39ae022d557343aad90ae1b4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\417824cd64dcca9b7432ecedecd58875\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\858de56af686300c8c110a08086e86d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f44968564fa293f2f0a95e8ab50806a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2b7667871f4eb4b9865e6102fbe9d52c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bbd5d76315d278f940c6d0cc81f2ec44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\46173bfc6b56988b3f723abe2c9c0f0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\28242dca351c09ee76ba119977614681\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\05903ac0ecd6f13f1c93f02c15d679d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d08b0f5662fbff635553379472332ea7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b241a2ff0bbc4e4b35dd05f2a5ee246e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c1e94155b4727a817b8b56787fdfa563\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffcb8b00b619cd0413ca6ba3203be167\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51788e30b56dd60275ff5b6759618fdc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7cea286d07ab0b4fd15e05d873998182\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\78b9a5286fff0f50505f83facb46c9bb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:5:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\860dc37a39ae022d557343aad90ae1b4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\860dc37a39ae022d557343aad90ae1b4\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.suryajeet945.cc.gaugematchernew.MainActivity
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.suryajeet945.cc.gaugematchernew.ShowRecords
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:22:19-46
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:23:13-25:84
+	android:value
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:25:17-81
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:24:17-63
+activity#com.suryajeet945.cc.gaugematchernew.ShowResult
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:27:9-48
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:27:19-45
+activity#com.suryajeet945.cc.gaugematchernew.TakeWiresSizes
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.suryajeet945.cc.gaugematchernew.WireMatcher
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:33:9-37:20
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:33:19-46
+activity#com.suryajeet945.cc.gaugematchernew.HowToUse
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:38:9-42:20
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:38:19-43
+activity#com.suryajeet945.cc.gaugematchernew.SettingActivity
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:43:19-50
+activity#com.suryajeet945.cc.gaugematchernew.GaugeMeasureActivity
+ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:48:9-67
+	android:name
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml:48:19-55
+uses-sdk
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\482a718a3c3ef791f44231e21e1c6d53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\482a718a3c3ef791f44231e21e1c6d53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\79f28302890aa04aaa74a18c04f6a9b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\79f28302890aa04aaa74a18c04f6a9b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\860dc37a39ae022d557343aad90ae1b4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\860dc37a39ae022d557343aad90ae1b4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\417824cd64dcca9b7432ecedecd58875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\417824cd64dcca9b7432ecedecd58875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\858de56af686300c8c110a08086e86d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\858de56af686300c8c110a08086e86d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f44968564fa293f2f0a95e8ab50806a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f44968564fa293f2f0a95e8ab50806a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2b7667871f4eb4b9865e6102fbe9d52c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2b7667871f4eb4b9865e6102fbe9d52c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bbd5d76315d278f940c6d0cc81f2ec44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bbd5d76315d278f940c6d0cc81f2ec44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\46173bfc6b56988b3f723abe2c9c0f0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\46173bfc6b56988b3f723abe2c9c0f0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\28242dca351c09ee76ba119977614681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\28242dca351c09ee76ba119977614681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\05903ac0ecd6f13f1c93f02c15d679d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\05903ac0ecd6f13f1c93f02c15d679d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d08b0f5662fbff635553379472332ea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d08b0f5662fbff635553379472332ea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b241a2ff0bbc4e4b35dd05f2a5ee246e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b241a2ff0bbc4e4b35dd05f2a5ee246e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c1e94155b4727a817b8b56787fdfa563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c1e94155b4727a817b8b56787fdfa563\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffcb8b00b619cd0413ca6ba3203be167\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffcb8b00b619cd0413ca6ba3203be167\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51788e30b56dd60275ff5b6759618fdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51788e30b56dd60275ff5b6759618fdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7cea286d07ab0b4fd15e05d873998182\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7cea286d07ab0b4fd15e05d873998182\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\78b9a5286fff0f50505f83facb46c9bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SuryaJeet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\78b9a5286fff0f50505f83facb46c9bb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\src\main\AndroidManifest.xml

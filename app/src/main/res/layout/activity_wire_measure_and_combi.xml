@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.suryajeet945.cc.gaugematchernew.MainActivity"
+    android:orientation="vertical"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:gravity="center">
+
+    <include layout="@layout/my_toolbar" />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:elevation="3dp"
+        card_view:cardCornerRadius="@dimen/card_album_radius"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/screw_image_alfa"
+                />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:orientation="horizontal"
+        android:layout_margin="5dp">
+        <android.support.v7.widget.CardView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/card_margin"
+            android:elevation="3dp"
+            card_view:cardCornerRadius="@dimen/card_album_radius"
+            >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Check the Wires Size"
+                android:id="@+id/btGaugeChecker"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onbtGaugeMeasureClick"
+                android:background="@drawable/button_background"
+                />
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/card_margin"
+            android:elevation="3dp"
+            card_view:cardCornerRadius="@dimen/card_album_radius">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Find All The Combinations of Wires"
+                android:id="@+id/btGaugeMatcher"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onbtGaugeMatcherClick"
+                android:background="@drawable/button_background"/>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+
+</LinearLayout>
