@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1525274239835"
+    timestamp="1525279436109"
     token="8072972939143980580"
     verifier="COMPATIBLE" >
 
@@ -29,25 +29,25 @@
 
     <build
         build-mode="FULL"
-        timestamp="1525273923842"
+        timestamp="1525279353079"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="HOT_WARM"
-        timestamp="1525274239835"
+        timestamp="1525279436109"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\SuryaJeet\AndroidStudioProjects\GaugeMatcherNew\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
