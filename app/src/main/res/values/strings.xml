@@ -74,4 +74,12 @@
         will be shown
     </string>
     <string name="spinner_prompt">Convert Wire</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="admob_app_id">ca-app-pub-8458327793820992~1709043089</string>
+    <string name="banner_home_footer">ca-app-pub-8458327793820992/5526150548</string>
+    <string name="interstitial_full_screen">ca-app-pub-3605124501046735/6014975447</string>
+    <string name="rewarded_video">ca-app-pub-3605124501046735/7846931867</string>
 </resources>
